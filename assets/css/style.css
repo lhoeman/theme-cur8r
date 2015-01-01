@@ -100,7 +100,7 @@ div.header {
   overflow: hidden;
   width: 100%;
   display: block;
-  background-color: #ffffff;
+  background-color: #000000;
   color: #000000;
 }
 div.header h1.logo {
